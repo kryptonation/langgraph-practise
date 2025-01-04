@@ -4,3 +4,4 @@ langgraph==0.2.60
 langchain-community==0.3.14
 langchain-openai==0.2.14
 requests==2.32.3
+pydantic-settings==2.7.1
